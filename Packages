@@ -14,7 +14,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.new
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Section: Epic Gamer moment
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
